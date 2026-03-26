@@ -1,0 +1,240 @@
+[
+  {
+    "timestamp": "2026-03-26T19:35:11.729377",
+    "date": "2026-03-26",
+    "ncaa_logged": 1,
+    "mlb_logged": 0,
+    "total_logged": 1
+  },
+  {
+    "timestamp": "2026-03-26T19:29:48.633545",
+    "date": "2026-03-26",
+    "ncaa_logged": 45,
+    "mlb_logged": 202,
+    "total_logged": 247
+  },
+  {
+    "timestamp": "2026-03-25T22:41:58.582389",
+    "date": "2026-03-25",
+    "ncaa_logged": 6,
+    "mlb_logged": 0,
+    "total_logged": 6
+  },
+  {
+    "timestamp": "2026-03-25T21:25:57.543683",
+    "date": "2026-03-25",
+    "ncaa_logged": 2,
+    "mlb_logged": 1,
+    "total_logged": 3
+  },
+  {
+    "timestamp": "2026-03-25T19:42:22.069470",
+    "date": "2026-03-25",
+    "ncaa_logged": 119,
+    "mlb_logged": 4,
+    "total_logged": 123
+  },
+  {
+    "timestamp": "2026-03-25T18:42:21.273200",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T18:36:43.323550",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T18:35:17.542312",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T18:33:52.461947",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T18:23:50.057066",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T18:23:01.696554",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T18:19:32.523966",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T18:15:43.732594",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T18:00:12.772979",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T17:59:18.841771",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T17:46:02.738514",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T17:38:37.546537",
+    "date": "2026-03-25",
+    "ncaa_logged": 1,
+    "mlb_logged": 0,
+    "total_logged": 1
+  },
+  {
+    "timestamp": "2026-03-25T17:37:23.866331",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T17:36:31.240006",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T17:21:55.404385",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T17:06:46.911894",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T16:59:33.041766",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T16:42:22.948991",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T16:25:06.563634",
+    "date": "2026-03-25",
+    "ncaa_logged": 1,
+    "mlb_logged": 0,
+    "total_logged": 1
+  },
+  {
+    "timestamp": "2026-03-25T15:50:48.325709",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T15:44:18.017398",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T15:33:34.687645",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 0,
+    "total_logged": 0
+  },
+  {
+    "timestamp": "2026-03-25T15:32:04.507895",
+    "date": "2026-03-25",
+    "ncaa_logged": 1,
+    "mlb_logged": 1,
+    "total_logged": 2
+  },
+  {
+    "timestamp": "2026-03-25T15:08:22.117815",
+    "date": "2026-03-25",
+    "ncaa_logged": 0,
+    "mlb_logged": 2,
+    "total_logged": 2
+  },
+  {
+    "timestamp": "2026-03-25T15:00:07.205224",
+    "date": "2026-03-25",
+    "ncaa_logged": 22,
+    "mlb_logged": 196,
+    "total_logged": 218
+  },
+  {
+    "timestamp": "2026-03-24T22:36:45.691676",
+    "date": "2026-03-24",
+    "ncaa_logged": 0,
+    "mlb_logged": 3,
+    "total_logged": 3
+  },
+  {
+    "timestamp": "2026-03-24T22:09:46.561778",
+    "date": "2026-03-24",
+    "ncaa_logged": 1,
+    "mlb_logged": 4,
+    "total_logged": 5
+  },
+  {
+    "timestamp": "2026-03-24T22:10:55.924998",
+    "date": "2026-03-24",
+    "ncaa_logged": 1,
+    "mlb_logged": 0,
+    "total_logged": 1
+  },
+  {
+    "timestamp": "2026-03-24T22:09:10.276228",
+    "date": "2026-03-24",
+    "ncaa_logged": 71,
+    "mlb_logged": 205,
+    "total_logged": 276
+  }
+]

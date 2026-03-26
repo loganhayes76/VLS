@@ -1,0 +1,240 @@
+[
+  {
+    "timestamp": "2026-03-26T19:35:11.731810",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 3.8,
+    "output_tail": "ncaa=1 mlb=0 total=1"
+  },
+  {
+    "timestamp": "2026-03-26T19:29:48.635831",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 4.5,
+    "output_tail": "ncaa=45 mlb=202 total=247"
+  },
+  {
+    "timestamp": "2026-03-25T22:41:58.587433",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 7.5,
+    "output_tail": "ncaa=6 mlb=0 total=6"
+  },
+  {
+    "timestamp": "2026-03-25T21:25:57.545640",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 6.5,
+    "output_tail": "ncaa=2 mlb=1 total=3"
+  },
+  {
+    "timestamp": "2026-03-25T20:01:19.877675",
+    "job": "NBA Props Update (4PM)",
+    "success": true,
+    "duration_s": 79.9,
+    "output_tail": "\ud83d\udce1 Pinging The Odds API for tonight's NBA slate...\nFetching NBA player stats from NBA Stats API...\n"
+  },
+  {
+    "timestamp": "2026-03-25T19:42:22.074100",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 5.3,
+    "output_tail": "ncaa=119 mlb=4 total=123"
+  },
+  {
+    "timestamp": "2026-03-25T18:42:21.275688",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 4.1,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T18:36:43.325239",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 4.2,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T18:35:17.545039",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 4.5,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T18:33:52.464727",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 6.5,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T18:23:50.059026",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 4.3,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T18:23:01.700697",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 4.6,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T18:19:32.526871",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 5.0,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T18:15:43.734317",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 5.8,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T18:00:12.774900",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 7.1,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T17:59:18.843853",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 4.5,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T17:46:02.799761",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 4.3,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T17:38:37.547609",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 5.9,
+    "output_tail": "ncaa=1 mlb=0 total=1"
+  },
+  {
+    "timestamp": "2026-03-25T17:37:23.868123",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 5.5,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T17:36:31.240878",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 6.4,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T17:21:55.406805",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 6.4,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T17:06:46.912669",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 0.0,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T16:59:33.042279",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 0.0,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T16:42:22.949657",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 0.0,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T16:25:06.564264",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 6.6,
+    "output_tail": "ncaa=1 mlb=0 total=1"
+  },
+  {
+    "timestamp": "2026-03-25T15:50:48.326222",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 6.9,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T15:44:18.017898",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 5.4,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T15:33:34.688227",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 5.6,
+    "output_tail": "ncaa=0 mlb=0 total=0"
+  },
+  {
+    "timestamp": "2026-03-25T15:32:04.508448",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 5.7,
+    "output_tail": "ncaa=1 mlb=1 total=2"
+  },
+  {
+    "timestamp": "2026-03-25T15:08:22.119064",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 6.0,
+    "output_tail": "ncaa=0 mlb=2 total=2"
+  },
+  {
+    "timestamp": "2026-03-25T15:00:07.206495",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 7.2,
+    "output_tail": "ncaa=22 mlb=196 total=218"
+  },
+  {
+    "timestamp": "2026-03-24T22:09:46.562163",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 2.3,
+    "output_tail": "ncaa=1 mlb=4 total=5"
+  },
+  {
+    "timestamp": "2026-03-24T22:10:55.925524",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 2.4,
+    "output_tail": "ncaa=1 mlb=0 total=1"
+  },
+  {
+    "timestamp": "2026-03-24T22:09:10.276710",
+    "job": "Daily Auto-Logger",
+    "success": true,
+    "duration_s": 2.5,
+    "output_tail": "ncaa=71 mlb=205 total=276"
+  }
+]

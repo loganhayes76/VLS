@@ -1,0 +1,2072 @@
+[
+    {
+        "golfer": "Scottie Scheffler",
+        "odds": 350,
+        "win_probability": 0.2222
+    },
+    {
+        "golfer": "Rory McIlroy",
+        "odds": 700,
+        "win_probability": 0.125
+    },
+    {
+        "golfer": "Bryson DeChambeau",
+        "odds": 1000,
+        "win_probability": 0.0909
+    },
+    {
+        "golfer": "Ludvig Aberg",
+        "odds": 1600,
+        "win_probability": 0.0588
+    },
+    {
+        "golfer": "Jon Rahm",
+        "odds": 1600,
+        "win_probability": 0.0588
+    },
+    {
+        "golfer": "Xander Schauffele",
+        "odds": 1800,
+        "win_probability": 0.0526
+    },
+    {
+        "golfer": "Tommy Fleetwood",
+        "odds": 1800,
+        "win_probability": 0.0526
+    },
+    {
+        "golfer": "Collin Morikawa",
+        "odds": 2200,
+        "win_probability": 0.0435
+    },
+    {
+        "golfer": "Cameron Young",
+        "odds": 2700,
+        "win_probability": 0.0357
+    },
+    {
+        "golfer": "Patrick Reed",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Justin Rose",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Christopher Gotterup",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Hideki Matsuyama",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Viktor Hovland",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Justin Thomas",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Robert Macintyre",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Jordan Spieth",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Brooks Koepka",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Tyrrell Hatton",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Shane Lowry",
+        "odds": 4500,
+        "win_probability": 0.0217
+    },
+    {
+        "golfer": "Matthew Fitzpatrick",
+        "odds": 4500,
+        "win_probability": 0.0217
+    },
+    {
+        "golfer": "Patrick Cantlay",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Joaquin Niemann",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Ben Griffin",
+        "odds": 5500,
+        "win_probability": 0.0179
+    },
+    {
+        "golfer": "Will Zalatoris",
+        "odds": 5500,
+        "win_probability": 0.0179
+    },
+    {
+        "golfer": "Si Woo Kim",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Corey Conners",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Akshay Bhatia",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Russell Henley",
+        "odds": 6600,
+        "win_probability": 0.0149
+    },
+    {
+        "golfer": "Min Woo Lee",
+        "odds": 6600,
+        "win_probability": 0.0149
+    },
+    {
+        "golfer": "Max Homa",
+        "odds": 6600,
+        "win_probability": 0.0149
+    },
+    {
+        "golfer": "Jason Day",
+        "odds": 6600,
+        "win_probability": 0.0149
+    },
+    {
+        "golfer": "Cameron Smith",
+        "odds": 6600,
+        "win_probability": 0.0149
+    },
+    {
+        "golfer": "Adam Scott",
+        "odds": 6600,
+        "win_probability": 0.0149
+    },
+    {
+        "golfer": "Sepp Straka",
+        "odds": 7000,
+        "win_probability": 0.0141
+    },
+    {
+        "golfer": "Sam Burns",
+        "odds": 7000,
+        "win_probability": 0.0141
+    },
+    {
+        "golfer": "Daniel Berger",
+        "odds": 7000,
+        "win_probability": 0.0141
+    },
+    {
+        "golfer": "Sungjae Im",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Sahith Theegala",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Marco Penge",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Wyndham Clark",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Jacob Bridgeman",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "J. J. Spaun",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Harris English",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Dustin Johnson",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Sergio Garcia",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Matt McCarty",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Alexander Noren",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Tony Finau",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Maverick Mcnealy",
+        "odds": 11000,
+        "win_probability": 0.009
+    },
+    {
+        "golfer": "Ryan Gerard",
+        "odds": 11000,
+        "win_probability": 0.009
+    },
+    {
+        "golfer": "Ryan Fox",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Keegan Bradley",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Harry Hall",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "Aaron Rai",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "Pierceson Coody",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "John Keefer",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "Rasmus Neergaard-Petersen",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "Davis Thompson",
+        "odds": 14000,
+        "win_probability": 0.0071
+    },
+    {
+        "golfer": "Tom McKibbin",
+        "odds": 14000,
+        "win_probability": 0.0071
+    },
+    {
+        "golfer": "Taylor Pendrith",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Tiger Woods",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Rasmus Hojgaard",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Nicolai Hojgaard",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Kurt Kitayama",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Carlos Ortiz",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Brian Harman",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Sam Stevens",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Sami V\u00e4lim\u00e4ki",
+        "odds": 19000,
+        "win_probability": 0.0052
+    },
+    {
+        "golfer": "Phil Mickelson",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Michael Kim",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Andrew Novak",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Aldrich Potgieter",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Jayden Trey Schaper",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Nick Taylor",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Max Greyserman",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Haotong Li",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Bubba Watson",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Davis Riley",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Kristoffer Reitan",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Charl Schwartzel",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Ben Campbell",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Michael Brennan",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Zach Johnson",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Danny Willett",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Angel Cabrera",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Vijay Singh",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Mike Weir",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Fred Couples",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Jose Maria Olaz\u00e1bal",
+        "odds": 200000,
+        "win_probability": 0.0005
+    },
+    {
+        "golfer": "Scottie Scheffler",
+        "odds": 380,
+        "win_probability": 0.2083
+    },
+    {
+        "golfer": "Rory McIlroy",
+        "odds": 650,
+        "win_probability": 0.1333
+    },
+    {
+        "golfer": "Bryson DeChambeau",
+        "odds": 1000,
+        "win_probability": 0.0909
+    },
+    {
+        "golfer": "Jon Rahm",
+        "odds": 1200,
+        "win_probability": 0.0769
+    },
+    {
+        "golfer": "Xander Schauffele",
+        "odds": 1600,
+        "win_probability": 0.0588
+    },
+    {
+        "golfer": "Tommy Fleetwood",
+        "odds": 1800,
+        "win_probability": 0.0526
+    },
+    {
+        "golfer": "Ludvig Aberg",
+        "odds": 1800,
+        "win_probability": 0.0526
+    },
+    {
+        "golfer": "Collin Morikawa",
+        "odds": 2200,
+        "win_probability": 0.0435
+    },
+    {
+        "golfer": "Justin Thomas",
+        "odds": 2500,
+        "win_probability": 0.0385
+    },
+    {
+        "golfer": "Cameron Young",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Brooks Koepka",
+        "odds": 3300,
+        "win_probability": 0.0294
+    },
+    {
+        "golfer": "Viktor Hovland",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Tyrrell Hatton",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Joaquin Niemann",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Christopher Gotterup",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Patrick Reed",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Hideki Matsuyama",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Patrick Cantlay",
+        "odds": 4500,
+        "win_probability": 0.0217
+    },
+    {
+        "golfer": "Justin Rose",
+        "odds": 4500,
+        "win_probability": 0.0217
+    },
+    {
+        "golfer": "Ben Griffin",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Jordan Spieth",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Shane Lowry",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Matthew Fitzpatrick",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Corey Conners",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Robert Macintyre",
+        "odds": 6600,
+        "win_probability": 0.0149
+    },
+    {
+        "golfer": "Sepp Straka",
+        "odds": 7000,
+        "win_probability": 0.0141
+    },
+    {
+        "golfer": "Russell Henley",
+        "odds": 7000,
+        "win_probability": 0.0141
+    },
+    {
+        "golfer": "Wyndham Clark",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Tony Finau",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Sungjae Im",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Si Woo Kim",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Sam Burns",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Maverick Mcnealy",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Jason Day",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Jake Knapp",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "J. J. Spaun",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Harris English",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Daniel Berger",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Min Woo Lee",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Max Homa",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Cameron Smith",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Jacob Bridgeman",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "David Puig",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Will Zalatoris",
+        "odds": 11000,
+        "win_probability": 0.009
+    },
+    {
+        "golfer": "Keegan Bradley",
+        "odds": 11000,
+        "win_probability": 0.009
+    },
+    {
+        "golfer": "Byeong Hun An",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Akshay Bhatia",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Adam Scott",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Dean Burmester",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Aaron Rai",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "Sahith Theegala",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "Dustin Johnson",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "Taylor Pendrith",
+        "odds": 14000,
+        "win_probability": 0.0071
+    },
+    {
+        "golfer": "Sergio Garcia",
+        "odds": 14000,
+        "win_probability": 0.0071
+    },
+    {
+        "golfer": "Ryan Gerard",
+        "odds": 14000,
+        "win_probability": 0.0071
+    },
+    {
+        "golfer": "Brian Harman",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Joohyung Kim",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Alexander Noren",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Rasmus Hojgaard",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Nicolai Hojgaard",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Michael Kim",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Keith Mitchell",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "J.T. Poston",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Harry Hall",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Denny McCarthy",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Rickie Fowler",
+        "odds": 17000,
+        "win_probability": 0.0058
+    },
+    {
+        "golfer": "Davis Thompson",
+        "odds": 17000,
+        "win_probability": 0.0058
+    },
+    {
+        "golfer": "Andrew Novak",
+        "odds": 18000,
+        "win_probability": 0.0055
+    },
+    {
+        "golfer": "Bud Cauley",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Billy Horschel",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Thomas Detry",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Taylor Moore",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Stephan Jaeger",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Sam Stevens",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Max Greyserman",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Mackenzie Hughes",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Lucas Glover",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Gary Woodland",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Davis Riley",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Cameron Davis",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Tom McKibbin",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Tom Hoge",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Tiger Woods",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Thorbjorn Olesen",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Seamus Power",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Rasmus Neergaard-Petersen",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Erik van Rooyen",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Phil Mickelson",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Patrick Rodgers",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Nick Taylor",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Kevin Yu",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Jhonattan Vegas",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Eric Cole",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Chris Kirk",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Lee Hodges",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Laurie Canter",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Karl Vilips",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Garrick Higgo",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Christiaan Bezuidenhout",
+        "odds": 36000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Austin Eckroat",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Nicolas Echavarria",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Matt Wallace",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Matt McCarty",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Elvis Smylie",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Beau Hossler",
+        "odds": 45000,
+        "win_probability": 0.0022
+    },
+    {
+        "golfer": "Ryo Hisatsune",
+        "odds": 45000,
+        "win_probability": 0.0022
+    },
+    {
+        "golfer": "Matthieu Pavon",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Vijay Singh",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Padraig Harrington",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Michael Block",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Martin Kaymer",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Jimmy Walker",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Jason Dufner",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Scottie Scheffler",
+        "odds": 350,
+        "win_probability": 0.2222
+    },
+    {
+        "golfer": "Rory McIlroy",
+        "odds": 750,
+        "win_probability": 0.1176
+    },
+    {
+        "golfer": "Jon Rahm",
+        "odds": 1100,
+        "win_probability": 0.0833
+    },
+    {
+        "golfer": "Tommy Fleetwood",
+        "odds": 1400,
+        "win_probability": 0.0667
+    },
+    {
+        "golfer": "Xander Schauffele",
+        "odds": 1600,
+        "win_probability": 0.0588
+    },
+    {
+        "golfer": "Bryson DeChambeau",
+        "odds": 1800,
+        "win_probability": 0.0526
+    },
+    {
+        "golfer": "Ludvig Aberg",
+        "odds": 2000,
+        "win_probability": 0.0476
+    },
+    {
+        "golfer": "Collin Morikawa",
+        "odds": 2200,
+        "win_probability": 0.0435
+    },
+    {
+        "golfer": "Justin Rose",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Cameron Young",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Viktor Hovland",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Tyrrell Hatton",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Robert Macintyre",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Matthew Fitzpatrick",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Christopher Gotterup",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Shane Lowry",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Patrick Reed",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Justin Thomas",
+        "odds": 4500,
+        "win_probability": 0.0217
+    },
+    {
+        "golfer": "Jordan Spieth",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Hideki Matsuyama",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Sepp Straka",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Russell Henley",
+        "odds": 5500,
+        "win_probability": 0.0179
+    },
+    {
+        "golfer": "Joaquin Niemann",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Patrick Cantlay",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Brooks Koepka",
+        "odds": 6500,
+        "win_probability": 0.0152
+    },
+    {
+        "golfer": "Marco Penge",
+        "odds": 7000,
+        "win_probability": 0.0141
+    },
+    {
+        "golfer": "Corey Conners",
+        "odds": 7000,
+        "win_probability": 0.0141
+    },
+    {
+        "golfer": "Sam Burns",
+        "odds": 7000,
+        "win_probability": 0.0141
+    },
+    {
+        "golfer": "Harris English",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Cameron Smith",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Ben Griffin",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Si Woo Kim",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Harry Hall",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Keegan Bradley",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Jason Day",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "J. J. Spaun",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Wyndham Clark",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Brian Harman",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Adam Scott",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Ryan Fox",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Tony Finau",
+        "odds": 12500,
+        "win_probability": 0.0079
+    },
+    {
+        "golfer": "Aaron Rai",
+        "odds": 12500,
+        "win_probability": 0.0079
+    },
+    {
+        "golfer": "Rasmus Hojgaard",
+        "odds": 12500,
+        "win_probability": 0.0079
+    },
+    {
+        "golfer": "Nicolai Hojgaard",
+        "odds": 12500,
+        "win_probability": 0.0079
+    },
+    {
+        "golfer": "Min Woo Lee",
+        "odds": 12500,
+        "win_probability": 0.0079
+    },
+    {
+        "golfer": "Maverick Mcnealy",
+        "odds": 12500,
+        "win_probability": 0.0079
+    },
+    {
+        "golfer": "Daniel Berger",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Joohyung Kim",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Sungjae Im",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Sergio Garcia",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Rickie Fowler",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Max Greyserman",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Louis Oosthuizen",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Dustin Johnson",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Dean Burmester",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Carlos Ortiz",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Bud Cauley",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Taylor Pendrith",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Aldrich Potgieter",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Akshay Bhatia",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Sahith Theegala",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Michael Kim",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Jordan Smith",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Davis Thompson",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Christiaan Bezuidenhout",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Thomas Detry",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Andrew Novak",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Nick Taylor",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Matt Wallace",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Marc Leishman",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Lucas Herbert",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Lucas Glover",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Lee Westwood",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "J.T. Poston",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Byeong Hun An",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Thriston Lawrence",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Thorbjorn Olesen",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Niklas Norgaard Moller",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Kevin Yu",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Daniel Brown",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Chris Kirk",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Nicolas Echavarria",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Matteo Manassero",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Laurie Canter",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Kristoffer Reitan",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Ben Campbell",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Stephan Jaeger",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Phil Mickelson",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Matthew Jordan",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Martin Couvra",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Mackenzie Hughes",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Jhonattan Vegas",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Jesper Svensson",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Tom Hoge",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Antoine Rozner",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Adrien Saddier",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Padraig Harrington",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Matthieu Pavon",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Matthias Schwab",
+        "odds": 50000,
+        "win_probability": 0.002
+    },
+    {
+        "golfer": "Henrik Stenson",
+        "odds": 60000,
+        "win_probability": 0.0017
+    },
+    {
+        "golfer": "Zach Johnson",
+        "odds": 75000,
+        "win_probability": 0.0013
+    },
+    {
+        "golfer": "Stewart Cink",
+        "odds": 75000,
+        "win_probability": 0.0013
+    },
+    {
+        "golfer": "Justin Leonard",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Darren Clarke",
+        "odds": 100000,
+        "win_probability": 0.001
+    },
+    {
+        "golfer": "Scottie Scheffler",
+        "odds": 400,
+        "win_probability": 0.2
+    },
+    {
+        "golfer": "Rory McIlroy",
+        "odds": 800,
+        "win_probability": 0.1111
+    },
+    {
+        "golfer": "Bryson DeChambeau",
+        "odds": 1000,
+        "win_probability": 0.0909
+    },
+    {
+        "golfer": "Jon Rahm",
+        "odds": 1200,
+        "win_probability": 0.0769
+    },
+    {
+        "golfer": "Ludvig Aberg",
+        "odds": 1600,
+        "win_probability": 0.0588
+    },
+    {
+        "golfer": "Xander Schauffele",
+        "odds": 1800,
+        "win_probability": 0.0526
+    },
+    {
+        "golfer": "Tommy Fleetwood",
+        "odds": 2000,
+        "win_probability": 0.0476
+    },
+    {
+        "golfer": "Collin Morikawa",
+        "odds": 2200,
+        "win_probability": 0.0435
+    },
+    {
+        "golfer": "Viktor Hovland",
+        "odds": 2800,
+        "win_probability": 0.0345
+    },
+    {
+        "golfer": "Cameron Young",
+        "odds": 3000,
+        "win_probability": 0.0323
+    },
+    {
+        "golfer": "Brooks Koepka",
+        "odds": 3300,
+        "win_probability": 0.0294
+    },
+    {
+        "golfer": "Justin Thomas",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Tyrrell Hatton",
+        "odds": 3500,
+        "win_probability": 0.0278
+    },
+    {
+        "golfer": "Joaquin Niemann",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Hideki Matsuyama",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Patrick Reed",
+        "odds": 4000,
+        "win_probability": 0.0244
+    },
+    {
+        "golfer": "Christopher Gotterup",
+        "odds": 4500,
+        "win_probability": 0.0217
+    },
+    {
+        "golfer": "Patrick Cantlay",
+        "odds": 4500,
+        "win_probability": 0.0217
+    },
+    {
+        "golfer": "Justin Rose",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Jordan Spieth",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Ben Griffin",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Robert Macintyre",
+        "odds": 5000,
+        "win_probability": 0.0196
+    },
+    {
+        "golfer": "Shane Lowry",
+        "odds": 5500,
+        "win_probability": 0.0179
+    },
+    {
+        "golfer": "Sam Burns",
+        "odds": 5500,
+        "win_probability": 0.0179
+    },
+    {
+        "golfer": "Russell Henley",
+        "odds": 5500,
+        "win_probability": 0.0179
+    },
+    {
+        "golfer": "Corey Conners",
+        "odds": 6000,
+        "win_probability": 0.0164
+    },
+    {
+        "golfer": "Matthew Fitzpatrick",
+        "odds": 6500,
+        "win_probability": 0.0152
+    },
+    {
+        "golfer": "J. J. Spaun",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Harris English",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Gary Woodland",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Akshay Bhatia",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Si Woo Kim",
+        "odds": 8000,
+        "win_probability": 0.0123
+    },
+    {
+        "golfer": "Maverick Mcnealy",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Wyndham Clark",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Tony Finau",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Sepp Straka",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Min Woo Lee",
+        "odds": 9000,
+        "win_probability": 0.011
+    },
+    {
+        "golfer": "Keegan Bradley",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Jason Day",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Jacob Bridgeman",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "David Puig",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Daniel Berger",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Adam Scott",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Sungjae Im",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Max Homa",
+        "odds": 10000,
+        "win_probability": 0.0099
+    },
+    {
+        "golfer": "Will Zalatoris",
+        "odds": 11000,
+        "win_probability": 0.009
+    },
+    {
+        "golfer": "Dean Burmester",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Cameron Smith",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Byeong Hun An",
+        "odds": 12000,
+        "win_probability": 0.0083
+    },
+    {
+        "golfer": "Sahith Theegala",
+        "odds": 13000,
+        "win_probability": 0.0076
+    },
+    {
+        "golfer": "Taylor Pendrith",
+        "odds": 14000,
+        "win_probability": 0.0071
+    },
+    {
+        "golfer": "Sergio Garcia",
+        "odds": 14000,
+        "win_probability": 0.0071
+    },
+    {
+        "golfer": "Keith Mitchell",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "J.T. Poston",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Dustin Johnson",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Denny McCarthy",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Brian Harman",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Alexander Noren",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Joohyung Kim",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Aaron Rai",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Ryan Gerard",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Rasmus Hojgaard",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Nicolai Hojgaard",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Michael Kim",
+        "odds": 15000,
+        "win_probability": 0.0066
+    },
+    {
+        "golfer": "Davis Thompson",
+        "odds": 17000,
+        "win_probability": 0.0058
+    },
+    {
+        "golfer": "Andrew Novak",
+        "odds": 18000,
+        "win_probability": 0.0055
+    },
+    {
+        "golfer": "Max Greyserman",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Mackenzie Hughes",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Lucas Glover",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Jake Knapp",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Davis Riley",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Bud Cauley",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Billy Horschel",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Thomas Detry",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Taylor Moore",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Stephan Jaeger",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Sam Stevens",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Rickie Fowler",
+        "odds": 20000,
+        "win_probability": 0.005
+    },
+    {
+        "golfer": "Erik van Rooyen",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Christiaan Bezuidenhout",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Cameron Davis",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Tom McKibbin",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Tom Hoge",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Tiger Woods",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Thorbjorn Olesen",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Seamus Power",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Rasmus Neergaard-Petersen",
+        "odds": 25000,
+        "win_probability": 0.004
+    },
+    {
+        "golfer": "Kevin Yu",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Jhonattan Vegas",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Chris Kirk",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Phil Mickelson",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Patrick Rodgers",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Nick Taylor",
+        "odds": 30000,
+        "win_probability": 0.0033
+    },
+    {
+        "golfer": "Lee Hodges",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Laurie Canter",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Karl Vilips",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Harry Hall",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Eric Cole",
+        "odds": 35000,
+        "win_probability": 0.0028
+    },
+    {
+        "golfer": "Matt Wallace",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Matt McCarty",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Elvis Smylie",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Austin Eckroat",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Nicolas Echavarria",
+        "odds": 40000,
+        "win_probability": 0.0025
+    },
+    {
+        "golfer": "Garrick Higgo",
+        "odds": 45000,
+        "win_probability": 0.0022
+    },
+    {
+        "golfer": "Beau Hossler",
+        "odds": 45000,
+        "win_probability": 0.0022
+    },
+    {
+        "golfer": "Ryo Hisatsune",
+        "odds": 45000,
+        "win_probability": 0.0022
+    },
+    {
+        "golfer": "Matthieu Pavon",
+        "odds": 50000,
+        "win_probability": 0.002
+    }
+]

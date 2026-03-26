@@ -1,0 +1,554 @@
+[
+    {
+        "fighter": "Ignacio Campos",
+        "odds": -146,
+        "win_probability": 0.593,
+        "fight_time": "2026-03-20T17:12:00Z"
+    },
+    {
+        "fighter": "Mathys Duragrin",
+        "odds": 110,
+        "win_probability": 0.476,
+        "fight_time": "2026-03-20T17:12:00Z"
+    },
+    {
+        "fighter": "Claudio Pacella",
+        "odds": -605,
+        "win_probability": 0.858,
+        "fight_time": "2026-03-20T17:45:00Z"
+    },
+    {
+        "fighter": "David Mora",
+        "odds": 455,
+        "win_probability": 0.18,
+        "fight_time": "2026-03-20T17:45:00Z"
+    },
+    {
+        "fighter": "Ernesto Schisano",
+        "odds": -325,
+        "win_probability": 0.765,
+        "fight_time": "2026-03-20T18:15:00Z"
+    },
+    {
+        "fighter": "Mattia Giordano",
+        "odds": 275,
+        "win_probability": 0.267,
+        "fight_time": "2026-03-20T18:15:00Z"
+    },
+    {
+        "fighter": "Harry Shaw",
+        "odds": 205,
+        "win_probability": 0.328,
+        "fight_time": "2026-03-20T18:35:00Z"
+    },
+    {
+        "fighter": "Victor Yeo",
+        "odds": -240,
+        "win_probability": 0.706,
+        "fight_time": "2026-03-20T18:35:00Z"
+    },
+    {
+        "fighter": "Gino van Steenis",
+        "odds": 190,
+        "win_probability": 0.345,
+        "fight_time": "2026-03-20T18:40:00Z"
+    },
+    {
+        "fighter": "Mark Ewen",
+        "odds": -225,
+        "win_probability": 0.692,
+        "fight_time": "2026-03-20T18:40:00Z"
+    },
+    {
+        "fighter": "George McManus",
+        "odds": 330,
+        "win_probability": 0.233,
+        "fight_time": "2026-03-20T19:00:00Z"
+    },
+    {
+        "fighter": "Joe Middleton",
+        "odds": -400,
+        "win_probability": 0.8,
+        "fight_time": "2026-03-20T19:00:00Z"
+    },
+    {
+        "fighter": "Borja Garcia",
+        "odds": -175,
+        "win_probability": 0.636,
+        "fight_time": "2026-03-20T19:15:00Z"
+    },
+    {
+        "fighter": "Rafael Calderon",
+        "odds": 150,
+        "win_probability": 0.4,
+        "fight_time": "2026-03-20T19:15:00Z"
+    },
+    {
+        "fighter": "Connor Patterson",
+        "odds": -265,
+        "win_probability": 0.726,
+        "fight_time": "2026-03-20T19:25:00Z"
+    },
+    {
+        "fighter": "Georgios Daskalakis",
+        "odds": 225,
+        "win_probability": 0.308,
+        "fight_time": "2026-03-20T19:25:00Z"
+    },
+    {
+        "fighter": "Kevin Cordero",
+        "odds": 165,
+        "win_probability": 0.377,
+        "fight_time": "2026-03-20T19:45:00Z"
+    },
+    {
+        "fighter": "Luciano Pereira",
+        "odds": -190,
+        "win_probability": 0.655,
+        "fight_time": "2026-03-20T19:45:00Z"
+    },
+    {
+        "fighter": "Jose Augusto",
+        "odds": 110,
+        "win_probability": 0.476,
+        "fight_time": "2026-03-20T20:10:00Z"
+    },
+    {
+        "fighter": "Linton Vassell",
+        "odds": -130,
+        "win_probability": 0.565,
+        "fight_time": "2026-03-20T20:10:00Z"
+    },
+    {
+        "fighter": "Callum Haughian",
+        "odds": -120,
+        "win_probability": 0.545,
+        "fight_time": "2026-03-20T20:15:00Z"
+    },
+    {
+        "fighter": "Christian Soda",
+        "odds": 100,
+        "win_probability": 0.5,
+        "fight_time": "2026-03-20T20:15:00Z"
+    },
+    {
+        "fighter": "Ali Taleb",
+        "odds": 280,
+        "win_probability": 0.263,
+        "fight_time": "2026-03-20T20:40:00Z"
+    },
+    {
+        "fighter": "Marin Vetrila",
+        "odds": -340,
+        "win_probability": 0.773,
+        "fight_time": "2026-03-20T20:40:00Z"
+    },
+    {
+        "fighter": "Benita van Rooij",
+        "odds": 210,
+        "win_probability": 0.323,
+        "fight_time": "2026-03-20T20:45:00Z"
+    },
+    {
+        "fighter": "Jacinta Austin",
+        "odds": -245,
+        "win_probability": 0.71,
+        "fight_time": "2026-03-20T20:45:00Z"
+    },
+    {
+        "fighter": "Leon Naumann",
+        "odds": 130,
+        "win_probability": 0.435,
+        "fight_time": "2026-03-20T21:05:00Z"
+    },
+    {
+        "fighter": "Steven Hill",
+        "odds": -150,
+        "win_probability": 0.6,
+        "fight_time": "2026-03-20T21:05:00Z"
+    },
+    {
+        "fighter": "Franco Tenaglia",
+        "odds": -500,
+        "win_probability": 0.833,
+        "fight_time": "2026-03-20T21:15:00Z"
+    },
+    {
+        "fighter": "Yassin Najid",
+        "odds": 385,
+        "win_probability": 0.206,
+        "fight_time": "2026-03-20T21:15:00Z"
+    },
+    {
+        "fighter": "Stefano Catacoli",
+        "odds": 310,
+        "win_probability": 0.244,
+        "fight_time": "2026-03-20T21:30:00Z"
+    },
+    {
+        "fighter": "Tariq Pell",
+        "odds": -375,
+        "win_probability": 0.789,
+        "fight_time": "2026-03-20T21:30:00Z"
+    },
+    {
+        "fighter": "Adam Borics",
+        "odds": 335,
+        "win_probability": 0.23,
+        "fight_time": "2026-03-20T21:40:00Z"
+    },
+    {
+        "fighter": "AJ McKee",
+        "odds": -405,
+        "win_probability": 0.802,
+        "fight_time": "2026-03-20T21:40:00Z"
+    },
+    {
+        "fighter": "Italo Gomes",
+        "odds": 255,
+        "win_probability": 0.282,
+        "fight_time": "2026-03-20T21:55:00Z"
+    },
+    {
+        "fighter": "Manuel Del Valle",
+        "odds": -305,
+        "win_probability": 0.753,
+        "fight_time": "2026-03-20T21:55:00Z"
+    },
+    {
+        "fighter": "Costello Van Steenis",
+        "odds": 110,
+        "win_probability": 0.476,
+        "fight_time": "2026-03-20T22:10:00Z"
+    },
+    {
+        "fighter": "Fabian Edwards",
+        "odds": -130,
+        "win_probability": 0.565,
+        "fight_time": "2026-03-20T22:10:00Z"
+    },
+    {
+        "fighter": "Daniel Konrad",
+        "odds": 140,
+        "win_probability": 0.417,
+        "fight_time": "2026-03-20T22:20:00Z"
+    },
+    {
+        "fighter": "Jordan Vucenic",
+        "odds": -160,
+        "win_probability": 0.615,
+        "fight_time": "2026-03-20T22:20:00Z"
+    },
+    {
+        "fighter": "Ollie Sarwa",
+        "odds": 165,
+        "win_probability": 0.377,
+        "fight_time": "2026-03-20T22:45:00Z"
+    },
+    {
+        "fighter": "Weslley Maia",
+        "odds": -190,
+        "win_probability": 0.655,
+        "fight_time": "2026-03-20T22:45:00Z"
+    },
+    {
+        "fighter": "Ravena Oliveira",
+        "odds": 375,
+        "win_probability": 0.211,
+        "fight_time": "2026-03-21T17:35:00Z"
+    },
+    {
+        "fighter": "Shanelle Dyer",
+        "odds": -500,
+        "win_probability": 0.833,
+        "fight_time": "2026-03-21T17:35:00Z"
+    },
+    {
+        "fighter": "Abdul-Kareem Al-Selwady",
+        "odds": 102,
+        "win_probability": 0.495,
+        "fight_time": "2026-03-21T18:15:00Z"
+    },
+    {
+        "fighter": "Shem Rock",
+        "odds": -122,
+        "win_probability": 0.55,
+        "fight_time": "2026-03-21T18:15:00Z"
+    },
+    {
+        "fighter": "Felipe Franco",
+        "odds": 600,
+        "win_probability": 0.143,
+        "fight_time": "2026-03-21T18:45:00Z"
+    },
+    {
+        "fighter": "Mario Pinto",
+        "odds": -900,
+        "win_probability": 0.9,
+        "fight_time": "2026-03-21T18:45:00Z"
+    },
+    {
+        "fighter": "Antonio Trocoli",
+        "odds": 550,
+        "win_probability": 0.154,
+        "fight_time": "2026-03-21T19:00:00Z"
+    },
+    {
+        "fighter": "Mantas Kondratavicius",
+        "odds": -750,
+        "win_probability": 0.882,
+        "fight_time": "2026-03-21T19:00:00Z"
+    },
+    {
+        "fighter": "Brando Pericic",
+        "odds": -255,
+        "win_probability": 0.718,
+        "fight_time": "2026-03-21T19:15:00Z"
+    },
+    {
+        "fighter": "Louie Sutherland",
+        "odds": 215,
+        "win_probability": 0.317,
+        "fight_time": "2026-03-21T19:15:00Z"
+    },
+    {
+        "fighter": "Losene Keita",
+        "odds": -230,
+        "win_probability": 0.697,
+        "fight_time": "2026-03-21T19:20:00Z"
+    },
+    {
+        "fighter": "Nathaniel Wood",
+        "odds": 195,
+        "win_probability": 0.339,
+        "fight_time": "2026-03-21T19:20:00Z"
+    },
+    {
+        "fighter": "Axel Sola",
+        "odds": 125,
+        "win_probability": 0.444,
+        "fight_time": "2026-03-21T19:40:00Z"
+    },
+    {
+        "fighter": "Mason Jones",
+        "odds": -145,
+        "win_probability": 0.592,
+        "fight_time": "2026-03-21T19:40:00Z"
+    },
+    {
+        "fighter": "Danny Silva",
+        "odds": 210,
+        "win_probability": 0.323,
+        "fight_time": "2026-03-21T20:15:00Z"
+    },
+    {
+        "fighter": "Kurtis Campbell",
+        "odds": -250,
+        "win_probability": 0.714,
+        "fight_time": "2026-03-21T20:15:00Z"
+    },
+    {
+        "fighter": "Christian Leroy Duncan",
+        "odds": -500,
+        "win_probability": 0.833,
+        "fight_time": "2026-03-21T20:45:00Z"
+    },
+    {
+        "fighter": "Roman Dolidze",
+        "odds": 385,
+        "win_probability": 0.206,
+        "fight_time": "2026-03-21T20:45:00Z"
+    },
+    {
+        "fighter": "Austen Lane",
+        "odds": 475,
+        "win_probability": 0.174,
+        "fight_time": "2026-03-21T21:15:00Z"
+    },
+    {
+        "fighter": "Iwo Baraniewski",
+        "odds": -650,
+        "win_probability": 0.867,
+        "fight_time": "2026-03-21T21:15:00Z"
+    },
+    {
+        "fighter": "Michael Page",
+        "odds": -185,
+        "win_probability": 0.649,
+        "fight_time": "2026-03-21T21:45:00Z"
+    },
+    {
+        "fighter": "Sam Patterson",
+        "odds": 160,
+        "win_probability": 0.385,
+        "fight_time": "2026-03-21T21:45:00Z"
+    },
+    {
+        "fighter": "Luke Riley",
+        "odds": -180,
+        "win_probability": 0.643,
+        "fight_time": "2026-03-21T22:15:00Z"
+    },
+    {
+        "fighter": "Michael Aswell",
+        "odds": 155,
+        "win_probability": 0.392,
+        "fight_time": "2026-03-21T22:15:00Z"
+    },
+    {
+        "fighter": "Lerone Murphy",
+        "odds": 190,
+        "win_probability": 0.345,
+        "fight_time": "2026-03-21T22:45:00Z"
+    },
+    {
+        "fighter": "Movsar Evloev",
+        "odds": -225,
+        "win_probability": 0.692,
+        "fight_time": "2026-03-21T22:45:00Z"
+    },
+    {
+        "fighter": "Adrian Yanez",
+        "odds": 130,
+        "win_probability": 0.435,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Ricky Simon",
+        "odds": -150,
+        "win_probability": 0.6,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Alexia Thainara",
+        "odds": -500,
+        "win_probability": 0.833,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Bruna Brasil",
+        "odds": 385,
+        "win_probability": 0.206,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Bruno Lopes",
+        "odds": 345,
+        "win_probability": 0.225,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Navajo Stirling",
+        "odds": -415,
+        "win_probability": 0.806,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Casey O'Neill",
+        "odds": -110,
+        "win_probability": 0.524,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Gabriella Fernandes",
+        "odds": -110,
+        "win_probability": 0.524,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Chase Hooper",
+        "odds": -260,
+        "win_probability": 0.722,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Lance Gibson Jr",
+        "odds": 220,
+        "win_probability": 0.312,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Ignacio Bahamondes",
+        "odds": -265,
+        "win_probability": 0.726,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Tofiq Musayev",
+        "odds": 225,
+        "win_probability": 0.308,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Marcin Tybura",
+        "odds": -102,
+        "win_probability": 0.505,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Tyrell Fortune",
+        "odds": -118,
+        "win_probability": 0.541,
+        "fight_time": "2026-03-28T20:00:00Z"
+    },
+    {
+        "fighter": "Alexa Grasso",
+        "odds": 125,
+        "win_probability": 0.444,
+        "fight_time": "2026-03-28T23:00:00Z"
+    },
+    {
+        "fighter": "Maycee Barber",
+        "odds": -145,
+        "win_probability": 0.592,
+        "fight_time": "2026-03-28T23:00:00Z"
+    },
+    {
+        "fighter": "Julian Erosa",
+        "odds": 246,
+        "win_probability": 0.289,
+        "fight_time": "2026-03-28T23:00:00Z"
+    },
+    {
+        "fighter": "Lerryan Douglas",
+        "odds": -286,
+        "win_probability": 0.741,
+        "fight_time": "2026-03-28T23:00:00Z"
+    },
+    {
+        "fighter": "Kyle Nelson",
+        "odds": 121,
+        "win_probability": 0.452,
+        "fight_time": "2026-03-28T23:00:00Z"
+    },
+    {
+        "fighter": "Terrance Mckinney",
+        "odds": -141,
+        "win_probability": 0.585,
+        "fight_time": "2026-03-28T23:00:00Z"
+    },
+    {
+        "fighter": "Mansur Abdul-Malik",
+        "odds": -145,
+        "win_probability": 0.592,
+        "fight_time": "2026-03-28T23:00:00Z"
+    },
+    {
+        "fighter": "Yousri Belgaroui",
+        "odds": 125,
+        "win_probability": 0.444,
+        "fight_time": "2026-03-28T23:00:00Z"
+    },
+    {
+        "fighter": "Israel Adesanya",
+        "odds": -130,
+        "win_probability": 0.565,
+        "fight_time": "2026-03-29T03:45:00Z"
+    },
+    {
+        "fighter": "Joseph Pyfer",
+        "odds": 110,
+        "win_probability": 0.476,
+        "fight_time": "2026-03-29T03:45:00Z"
+    }
+]

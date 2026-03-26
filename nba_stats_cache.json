@@ -1,0 +1,25 @@
+{
+  "season_averages": {},
+  "last7_averages": {},
+  "last10_averages": {},
+  "team_pace": {},
+  "team_opponent_stats": {},
+  "def_ratings": {
+    "guard": {
+      "pts_allowed": 22.0,
+      "reb_allowed": 4.0,
+      "ast_allowed": 6.0
+    },
+    "forward": {
+      "pts_allowed": 20.0,
+      "reb_allowed": 7.0,
+      "ast_allowed": 3.5
+    },
+    "center": {
+      "pts_allowed": 18.0,
+      "reb_allowed": 10.0,
+      "ast_allowed": 2.5
+    }
+  },
+  "_cached_at": "2026-03-25T20:01:16.068904"
+}

@@ -1,0 +1,22 @@
+{
+  "baseball_ncaa": {
+    "fetched_at": 1774553381.127123,
+    "key_used": "primary",
+    "game_count": 3
+  },
+  "baseball_mlb": {
+    "fetched_at": 1774553380.540191,
+    "key_used": "primary",
+    "game_count": 19
+  },
+  "basketball_nba": {
+    "fetched_at": 1774553380.83899,
+    "key_used": "primary",
+    "game_count": 8
+  },
+  "basketball_ncaab": {
+    "fetched_at": 1774553381.3955886,
+    "key_used": "primary",
+    "game_count": 30
+  }
+}
